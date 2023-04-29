@@ -1,0 +1,21 @@
+head {
+    font-weight:italic; 
+    color:green;
+}
+body {
+    background-color: rgb(200, 237, 248);
+}
+
+h2 {color: gray;
+text-align: center; 
+}
+p {
+
+    color: rgb(214, 128, 196);
+font-size: 24px;
+font-style: italic;
+}
+
+h1{
+    text-align: center;
+}

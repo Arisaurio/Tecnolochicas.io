@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);
+}
+p {
+    color: rgb(69, 30, 141);
+font-size: 28px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: justify;
+}
+H2{
+    font: size 36px;
+   color: #ff55b3;
+    text-align: center;
+    font-style: italic;
+    font-feature-settings: "aalt";
+}
+h1{ color: #650283;
+font-size: 40px;
+font-style: italic;
+font-weight: 300;
+text-align: center;}

@@ -1,0 +1,30 @@
+form{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #999;
+    margin:auto;
+    width: 580px;
+    background: #f07f7f;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+input,textarea{
+    outline: invert;
+    border: solid 1px #ccc;
+    width: 500px;
+    padding: 10px;
+    color:#999
+}
+
+input,selec{
+    outline: none;
+    border: solid 1px #ccc;
+    color:#999
+}
+
+input.bt{
+    color: aquamarine;
+    background-color: aqua;
+}

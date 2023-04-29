@@ -1,0 +1,35 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: rgb(255, 255, 246);
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+.menu li a{
+    text-decoration: none;
+    color: rgb(255, 135, 229);
+    padding: 20px;
+    display: block;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: justify;
+}
+
+.menu li a :hover{
+    background: rgb(204, 88, 88);
+ }
+h1,h2{
+    color:rgb(255, 0, 0);
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
